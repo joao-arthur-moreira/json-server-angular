@@ -1,19 +1,19 @@
 {
   "cidades": [
     {
-      "nome": "Uberlândia",
+      "nome": "Beberibe",
       "id": 1
     },
     {
-      "nome": "Florianópolis",
+      "nome": "Fortaleza",
       "id": 2
     },
     {
-      "nome": "Goiânia",
+      "nome": "Diogo",
       "id": 4
     },
     {
-      "nome": "Curitiba",
+      "nome": "Morro Branco",
       "id": 6
     }
   ]
